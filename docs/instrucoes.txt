@@ -1,0 +1,175 @@
+==========================================
+AGRO TECH SITE - INSTRUÇÕES DE USO
+==========================================
+
+📁 ESTRUTURA DO PROJETO:
+/agrotech-site
+├── index.html          (Página principal)
+├── /css
+│   └── style.css       (Todos os estilos)
+├── /js
+│   └── script.js       (Funcionalidades JavaScript)
+├── /img
+│   ├── logo.png        (INSERIR SUA LOGO AQUI)
+│   ├── trator-placeholder.jpg
+│   ├── maquina-placeholder.jpg
+│   └── jatinho-placeholder.jpg
+└── /docs
+    └── instrucoes.txt  (Este arquivo)
+
+==========================================
+🚀 COMO ABRIR O PROJETO NO NAVEGADOR:
+==========================================
+
+1. Abra o arquivo "index.html" diretamente no navegador
+2. Ou use um servidor local (recomendado):
+   - Python: python -m http.server 8000
+   - Node.js: npx http-server
+   - VS Code: Live Server extension
+
+==========================================
+🖼️ ONDE SUBSTITUIR IMAGENS:
+==========================================
+
+🔹 LOGO DA EMPRESA:
+   - Local: /img/logo.png
+   - Formato: PNG com fundo transparente
+   - Tamanho recomendado: 48x48px ou 96x96px
+   - O site detectará automaticamente quando a logo for inserida
+
+🔹 IMAGENS DOS PRODUTOS:
+   - Tratores: /img/trator-placeholder.jpg
+   - Máquinas: /img/maquina-placeholder.jpg  
+   - Jatinhos: /img/jatinho-placeholder.jpg
+   - Formato: JPG ou PNG
+   - Tamanho recomendado: 800x600px
+
+🔹 IMAGEM DE FUNDO DO HERO:
+   - Atualmente usando URL externa (Unsplash)
+   - Para usar imagem própria: substitua a URL no CSS
+   - Arquivo: css/style.css (linha ~200 aproximadamente)
+   - Procure por: background-image
+
+==========================================
+📝 COMO EDITAR TEXTOS E CORES:
+==========================================
+
+🔹 TEXTOS:
+   - Todos os textos estão no arquivo: index.html
+   - Procure pelas seções: #home, #sobre, #produtos, #servicos, #contato
+   - Edite diretamente o conteúdo HTML
+
+🔹 CORES (se necessário alterar):
+   - Arquivo: css/style.css
+   - Procure por ":root" no início do arquivo
+   - Variáveis disponíveis:
+     * --bg-primary: Cor do fundo principal
+     * --accent-primary: Cor verde agro (#228B22)
+     * --text-primary: Cor do texto principal
+   
+🔹 NOME DA EMPRESA:
+   - Procure por "Agro" no index.html
+   - Substitua por seu nome desejado
+
+==========================================
+📱 RESPONSIVIDADE:
+==========================================
+
+✅ O site é totalmente responsivo:
+   - Desktop: 1200px+
+   - Tablet: 768px - 1199px  
+   - Mobile: até 767px
+
+✅ Funcionalidades responsivas:
+   - Menu hamburger no mobile
+   - Grids adaptáveis
+   - Imagens flexíveis
+   - Botões com tamanho adequado
+
+==========================================
+🎨 RECURSOS IMPLEMENTADOS:
+==========================================
+
+✅ Design moderno com tema escuro
+✅ Cores: Preto, Verde Agro (#228B22), Branco
+✅ Fonte: Inter (Google Fonts)
+✅ Animações suaves
+✅ Navbar fixa com efeito blur
+✅ Smooth scrolling
+✅ Hover effects
+✅ Indicador de scroll
+✅ Ícones de redes sociais (placeholder)
+✅ Contadores animados
+✅ Cards com efeito hover
+✅ Sistema de notificações
+
+==========================================
+🔧 FUNCIONALIDADES JAVASCRIPT:
+==========================================
+
+✅ Menu mobile responsivo
+✅ Scroll suave entre seções
+✅ Animações ao entrar na viewport
+✅ Efeitos hover nos cards
+✅ Loading automático da logo
+✅ Fallback para imagens não encontradas
+✅ Contadores animados nas estatísticas
+✅ Sistema de notificações
+✅ Efeito ripple nos botões
+
+==========================================
+🌐 REDES SOCIAIS:
+==========================================
+
+🔹 Os ícones das redes sociais estão implementados
+🔹 Locais: Seção de contato e rodapé
+🔹 Para ativar: substitua "#" pelos links reais
+🔹 Arquivo: index.html
+🔹 Procure por: class="social-link"
+
+==========================================
+📞 INFORMAÇÕES DE CONTATO:
+==========================================
+
+🔹 Para alterar contatos:
+   - Telefone: (11) 9999-9999
+   - Email: contato@agro.com.br
+   - Endereço: São Paulo, SP
+   
+🔹 Local: index.html - seção #contato e footer
+
+==========================================
+🎯 OTIMIZAÇÕES IMPLEMENTADAS:
+==========================================
+
+✅ Lazy loading de imagens
+✅ Animações performáticas
+✅ CSS otimizado com variáveis
+✅ JavaScript modular
+✅ SEO básico (meta tags)
+✅ Acessibilidade básica
+✅ Cross-browser compatibility
+
+==========================================
+⚠️  OBSERVAÇÕES IMPORTANTES:
+==========================================
+
+1. Mantenha a estrutura de pastas organizada
+2. Use imagens otimizadas (comprimidas)
+3. Teste em diferentes navegadores
+4. A logo será detectada automaticamente quando inserida
+5. O site funciona offline após carregamento inicial
+
+==========================================
+🆘 SUPORTE:
+==========================================
+
+Se precisar de ajuda:
+1. Verifique se todos os arquivos estão nas pastas corretas
+2. Abra o console do navegador (F12) para ver erros
+3. Certifique-se de que as imagens existem nas pastas corretas
+
+==========================================
+✨ DESENVOLVIDO POR:
+Jeniffer Maximo | Dev
+==========================================

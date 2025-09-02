@@ -1,0 +1,24 @@
+# Esta pasta contém as imagens do site
+
+## Como usar:
+
+1. **Logo da empresa:**
+   - Salve sua logo como: `logo.png`
+   - Tamanho recomendado: 48x48px ou 96x96px
+   - Formato: PNG com fundo transparente
+
+2. **Imagens dos produtos:**
+   - `trator-placeholder.jpg` - Imagem dos tratores
+   - `maquina-placeholder.jpg` - Imagem das máquinas agrícolas  
+   - `jatinho-placeholder.jpg` - Imagem dos jatinhos
+   - Tamanho recomendado: 800x600px
+   - Formato: JPG ou PNG
+
+3. **Outras imagens:**
+   - Você pode adicionar mais imagens conforme necessário
+   - Lembre-se de atualizar o HTML/CSS para referenciar as novas imagens
+
+## Observações:
+- O site detectará automaticamente quando a logo for inserida
+- Imagens não encontradas terão placeholders coloridos
+- Use imagens otimizadas para melhor performance
