@@ -3,8 +3,7 @@
 Este repositório contém um site de demonstração desenvolvido para apresentar a empresa fictícia **Agro**, que oferece soluções tecnológicas inovadoras para o agronegócio brasileiro.
 
 ## 🎥 Demonstração
-(img/Macbook.png)
-    
+![Demonstração do site](img/Macbook.png)
 
 
 ## 📌 Sobre o Projeto
