@@ -5,7 +5,8 @@ Este repositório contém um site de demonstração desenvolvido para apresentar
 ## 🎥 Demonstração
 ![Demonstração do site](img/Macbook.png)
 
-Acesse o nosso site: [Clique aqui]([https://meusite.com](https://jeniffer-mxm.github.io/Site-Agro/))
+[Visite o site]([URL](https://jeniffer-mxm.github.io/Site-Agro/)
+
 
 
 ## 📌 Sobre o Projeto
