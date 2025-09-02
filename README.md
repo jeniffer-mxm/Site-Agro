@@ -31,7 +31,7 @@ Ele simula a página institucional de uma empresa de tecnologia agrícola que of
 - **JavaScript**  
 - [Font Awesome](https://fontawesome.com/) (ícones)  
 - [Google Fonts](https://fonts.google.com/) (tipografia)  
-
+```
 ## 📂 Estrutura do Projeto
 📁 Site-Agro
 ┣ 📂 css
@@ -42,7 +42,7 @@ Ele simula a página institucional de uma empresa de tecnologia agrícola que of
 ┃ ┗ (imagens de exemplo e placeholders)
 ┣ index.html
 ┗ README.md
-
+```
 
 ## 👩‍💻 Desenvolvedora
 Projeto desenvolvido por **Jeniffer Maximo | Dev.**   
