@@ -5,6 +5,7 @@ Este repositório contém um site de demonstração desenvolvido para apresentar
 ## 🎥 Demonstração
 ![Demonstração do site](img/Macbook.png)
 
+Acesse o nosso site: [Clique aqui](https://meusite.com)
 
 ## 📌 Sobre o Projeto
 O site foi criado como **exemplo de aplicação front-end** utilizando HTML, CSS e JavaScript.  
